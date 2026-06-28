@@ -26,25 +26,25 @@ A modern real-time group chat web application built with PHP, MySQL, JavaScript 
 
 ## What is HIVE?
 
-HIVE is a group chat web app where people can create rooms, send messages, share images and stay connected — all in a clean modern dark UI inspired by the honeycomb theme. Built as a university project by IIT14 students at Uva Wellassa University of Sri Lanka.
+HIVE is a group chat web app where people can create rooms, send messages, share images and stay connected — all in a clean modern dark UI inspired by the honeycomb theme.
 
 ---
 
 ## Features
 
-- 🔐 User registration and login with profile picture upload
-- 🏠 Create and join multiple group chat rooms
-- 💬 Send and receive messages with auto-refresh (AJAX polling)
-- 😊 Emoji reactions on messages
-- ↩️ Reply to specific messages
-- 🖼️ Image sharing inside chat rooms
-- 🟢 Online / Away / Busy / Offline status
-- 🕐 Last seen timestamps
-- ✓✓ Message seen status
-- 👤 Edit profile picture and status
-- ⚙️ Group admin can change room name, description and picture
-- 🌙 Full dark mode UI
-- 📱 Mobile responsive design
+- User registration and login with profile picture upload
+- Create and join multiple group chat rooms
+- Send and receive messages with auto-refresh (AJAX polling)
+- Emoji reactions on messages
+- Reply to specific messages
+- Image sharing inside chat rooms
+- Online / Away / Busy / Offline status
+- Last seen timestamps
+- Message seen status
+- Edit profile picture and status
+- Group admin can change room name, description and picture
+- Full dark mode UI
+- Mobile responsive design
 
 ---
 
