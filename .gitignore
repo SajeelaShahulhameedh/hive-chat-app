@@ -1,0 +1,14 @@
+# Ignore uploaded files (avatars, images)
+assets/uploads/avatars/*
+assets/uploads/media/*
+
+# Keep the folders but ignore contents
+!assets/uploads/avatars/.gitkeep
+!assets/uploads/media/.gitkeep
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore config with real passwords (optional for now)
+# config/db.php
