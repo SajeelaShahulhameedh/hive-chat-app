@@ -26,9 +26,9 @@ A modern real-time group chat web application built with PHP, MySQL, JavaScript 
 
 ## What is HIVE?
 
-HIVE is a group chat web app where people can create rooms, send messages, share images and stay connected — all in a clean modern dark UI inspired by the honeycomb theme.
+> **Note:** HIVE is a locally hosted project — not deployed on the internet. It runs on XAMPP (Apache + PHP + MySQL) on local machine.
 
----
+> About messaging:** HIVE uses AJAX polling (auto-refresh every 2 seconds) instead of WebSockets — so messages update automatically without page refresh, but it is not a true real-time chat like WhatsApp. This is intentional for simplicity and learning purposes.
 
 ## Features
 
