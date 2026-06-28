@@ -9,7 +9,7 @@
   <circle cx="101" cy="82" r="7" fill="#1A1430"/>
 </svg>
 
-# HIVE 🐝
+# HIVE
 
 ### Your Community. Your Conversation.
 
