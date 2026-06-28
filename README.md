@@ -61,4 +61,4 @@ HIVE is a group chat web app where people can create rooms, send messages, share
 
 ---
 
-## Project Structure
+## currently in active development.....
