@@ -585,7 +585,7 @@ if (isset($_SESSION['user_id'])) {
 <!-- FOOTER -->
 <footer>
   <div class="logo-text">HIVE</div>
-  <p>Built with 🐝 by <span>IIT14</span> — Uva Wellassa University</p>
+  <p>Built with 🐝 by <span> sajeela</span> A personal full-stack practice project.</p>
   <p>PHP · MySQL · JavaScript · CSS</p>
 </footer>
 
