@@ -9,7 +9,7 @@
   <circle cx="101" cy="82" r="7" fill="#1A1430"/>
 </svg>
 
-# HIVE 🐝
+# HIVE
 
 ### Your Community. Your Conversation.
 
@@ -26,25 +26,25 @@ A modern real-time group chat web application built with PHP, MySQL, JavaScript 
 
 ## What is HIVE?
 
-HIVE is a group chat web app where people can create rooms, send messages, share images and stay connected — all in a clean modern dark UI inspired by the honeycomb theme. Built as a university project by IIT14 students at Uva Wellassa University of Sri Lanka.
+> **Note:** HIVE is a locally hosted project — not deployed on the internet. It runs on XAMPP (Apache + PHP + MySQL) on local machine.
 
----
+> About messaging:** HIVE uses AJAX polling (auto-refresh every 2 seconds) instead of WebSockets — so messages update automatically without page refresh, but it is not a true real-time chat like WhatsApp. This is intentional for simplicity and learning purposes.
 
 ## Features
 
-- 🔐 User registration and login with profile picture upload
-- 🏠 Create and join multiple group chat rooms
-- 💬 Send and receive messages with auto-refresh (AJAX polling)
-- 😊 Emoji reactions on messages
-- ↩️ Reply to specific messages
-- 🖼️ Image sharing inside chat rooms
-- 🟢 Online / Away / Busy / Offline status
-- 🕐 Last seen timestamps
-- ✓✓ Message seen status
-- 👤 Edit profile picture and status
-- ⚙️ Group admin can change room name, description and picture
-- 🌙 Full dark mode UI
-- 📱 Mobile responsive design
+- User registration and login with profile picture upload
+- Create and join multiple group chat rooms
+- Send and receive messages with auto-refresh (AJAX polling)
+- Emoji reactions on messages
+- Reply to specific messages
+- Image sharing inside chat rooms
+- Online / Away / Busy / Offline status
+- Last seen timestamps
+- Message seen status
+- Edit profile picture and status
+- Group admin can change room name, description and picture
+- Full dark mode UI
+- Mobile responsive design
 
 ---
 
@@ -61,4 +61,4 @@ HIVE is a group chat web app where people can create rooms, send messages, share
 
 ---
 
-## Project Structure
+## currently in active development.....
