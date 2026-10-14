@@ -12,7 +12,7 @@
 # HIVE
 
 ### Your Community. Your Conversation.
-A modern real-time group chat web application built with PHP, MySQL, JavaScript and CSS.
+
 
 
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)
